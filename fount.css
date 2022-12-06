@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'source_han_sans_cnmedium';
+    src: url('sourcehansanscn-medium-webfont.woff2') format('woff2'),
+         url('sourcehansanscn-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body{
+    font-family: source_han_sans_cnmedium;
+}
